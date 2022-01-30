@@ -4,7 +4,7 @@ import Electricity from "../components/Electricity";
 import DietForm from "../components/DietForm";
 import FlightForm from "../components/FlightForm";
 import "./FormContainer.css";
-import { Tabs, Tab, Box } from '@mui/material'
+import { Tabs, Tab, Box, Paper } from '@mui/material'
 import { TabList, TabPanel, TabContext }  from '@mui/lab'
 import BoltIcon from '@mui/icons-material/Bolt';
 import FastfoodIcon from '@mui/icons-material/Fastfood';
@@ -152,7 +152,7 @@ const FormContainer = ({
 
   return (
 
-    <div id="forms-container">
+    <Paper elevation={18}id="forms-container">
       <TabContext value={currentTab}>
       <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
       <TabList textColor='primary' indicatorColor="primary" onChange={handleChange} value={currentTab}>
@@ -216,7 +216,7 @@ const FormContainer = ({
             </div>
             : null}
 
-    </div>
+    </Paper>
 
   );
 };
