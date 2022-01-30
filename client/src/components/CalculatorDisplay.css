@@ -1,0 +1,43 @@
+#calculator-display-container > h2 {
+  color: #6b9080;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left;
+}
+
+#calculator-display-container > p {
+  display: inline;
+  padding-left: 20px;
+  text-align: left;
+}
+
+#total-value-low {
+  color: #6b9080;
+  font-style: bold;
+}
+
+#total-value-average {
+  color: #8b7849;
+  font-style: bold;
+}
+
+#total-value-high {
+  color: #8c504a;
+  font-style: bold;
+}
+
+#span-more {
+  color: #8c504a;
+  font-style: bold;
+}
+
+#span-less {
+  color: #6b9080;
+  font-style: bold;
+}
+
+#calculator-display-container {
+  border-radius: 3px;
+  text-align: left;
+}

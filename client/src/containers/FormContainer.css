@@ -1,0 +1,46 @@
+/* ---Forms Container--- */
+#forms-container {
+  background: #f6fff8;
+  margin: 5px;
+  padding: 20px 25px;
+  text-align: left;
+  border-radius: 10px;
+
+  border-radius: 3px;
+}
+
+/* ---Energy info--- */
+
+#energy-header {
+  color: #6b9080;
+}
+
+/* ---Diet info--- */
+
+#diet-header {
+  color: #6b9080;
+}
+
+/* ---Transport info--- */
+
+#car-header {
+  color: #6b9080;
+}
+
+#car-options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* Flights */
+
+#flight-header {
+  color: #6b9080;
+}
+
+form,
+h2 {
+  padding-left: 5px;
+}
