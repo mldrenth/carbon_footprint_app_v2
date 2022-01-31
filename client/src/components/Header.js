@@ -1,7 +1,9 @@
 const Header = () => {
   return (
     <header className="header">
-      <h1>Your Carbon Footprint</h1>
+      <div id="header-image">
+      <h1 id="header-text">Your Carbon Footprint</h1>
+      </div>
     </header>
   );
 };
