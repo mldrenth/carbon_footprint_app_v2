@@ -3,6 +3,8 @@
 This is the second version of our application where I started polishing and refactoring the app.
 The original can be found at https://github.com/mldrenth/carbon_footprint_app.
 
+![App Screenshot](/images/app_screenshot.png?raw=true)
+
 ### How we worked on this project
 ---
 The goal was to use JavaScript, React, Express and MongoDB to develop an app showing an interactive Co2 footprint.
