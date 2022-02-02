@@ -3,6 +3,15 @@
 This is the second version of our application where I started polishing and refactoring the app.
 The original can be found at https://github.com/mldrenth/carbon_footprint_app.
 
+#### My additions include so far
+- Icons for tabs
+- Change of the header
+
+#### Planned additions
+- Refactor of Cypress tests (currently still using input fields instead of sliders)
+- CSS overhaul
+- Refactoring of Calculator.js
+
 ![App Screenshot](/images/app_screenshot.png?raw=true)
 
 ### How we worked on this project
