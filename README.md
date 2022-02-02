@@ -1,6 +1,7 @@
 ### Version 2 of the Carbon Footprint App
 ---
 This is the second version of our application where I started polishing and refactoring the app.
+The original can be found at https://github.com/mldrenth/carbon_footprint_app.
 
 ### How we worked on this project
 ---
