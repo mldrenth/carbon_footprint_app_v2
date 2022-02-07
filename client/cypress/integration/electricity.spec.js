@@ -1,3 +1,5 @@
+// Old tests for input fields instead of slider, update needed
+
 describe('Electricity', () => {
 
   beforeEach(() => {
