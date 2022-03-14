@@ -3,6 +3,9 @@
 This is the second version of our application where I started polishing and refactoring the app.
 The original can be found at https://github.com/mldrenth/carbon_footprint_app.
 
+#### Demo
+To demo the app, please follow [this link](https://carbon-footprint-app-a58e2.web.app/).
+
 #### My additions include so far
 - Icons for tabs
 - Change of the header
